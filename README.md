@@ -25,7 +25,6 @@ Dieta é um chatbot inteligente desenvolvido para ajudar você a alcançar seus 
 Acesse o Dieta.Fy diretamente pelo WhatsApp:
 
 👉 [Clique aqui para iniciar a conversa](https://wa.me/1234567890)  
-*(Substitua `1234567890` pelo número oficial do Dieta)*
 
 ---
 
